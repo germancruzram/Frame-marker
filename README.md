@@ -5,6 +5,4 @@ Con esta herramienta se automatiza el etiquetado de fecha, hora, coordenadas geo
 Esto se logra calculando la distancia acumulada entre cada fotografía (ecuación de distancia entre 2 puntos), es indispensable que las imágenes sean tomadas con coordenadas con el menor espaciamiento posible. 
 
 
-Elaborado por: 
-**German Cruz Ramírez**
 
