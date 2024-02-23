@@ -6,5 +6,5 @@ Esto se logra calculando la distancia acumulada entre cada fotografía (ecuació
 
 
 Elaborado por: 
-# German Cruz Ramírez
+**German Cruz Ramírez**
 
