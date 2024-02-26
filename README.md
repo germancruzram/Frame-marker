@@ -9,7 +9,7 @@ Este proyecto de Python se enfoca en el manejo y procesamiento de imágenes, esp
 ### Características Principales:
 
 **I. Instalación de Librerías:**
-La aplicación comienza instalando las librerías necesarias para el procesamiento de imágenes, incluyendo exifread, piexif, geopy, rarfile, y Pillow.
+Se instalan las librerías necesarias para el procesamiento de imágenes, incluyendo exifread, piexif, geopy, rarfile, y Pillow.
 
 **II. Configuración de Carpetas de Trabajo:**
 Se configuran las carpetas donde se almacenarán las imágenes originales y las imágenes procesadas.
