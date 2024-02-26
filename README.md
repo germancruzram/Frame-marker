@@ -6,7 +6,7 @@ Los resultados son responsabilidad del usuario.
 
 Este proyecto de Python se enfoca en el manejo y procesamiento de imágenes, especialmente aquellas capturadas con información de telemetría incrustada, como coordenadas GPS, fecha y hora. La aplicación ofrece varias funcionalidades útiles para organizar, manipular y visualizar este tipo de imágenes. A continuación, se presenta un resumen de las principales características y funcionalidades de la aplicación:
 
-Características Principales:
+##Características Principales:##
 
 **I. Instalación de Librerías:**
 La aplicación comienza instalando las librerías necesarias para el procesamiento de imágenes, incluyendo exifread, piexif, geopy, rarfile, y Pillow.
