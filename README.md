@@ -1,8 +1,4 @@
-Frame marker es una herramienta en python para etiquetar fotografías y posteriormente cargarlas en GIS o Google Earth generando un archivo formato kmz desde el ambiente de Google Colab. Forma parte de la recopilación de comandos con el objetivo de desarrolar habilidades en lo que considero "las macros modernas". 
-
-Con esta herramienta se automatiza el etiquetado de fecha, hora, coordenadas geográficas y el estacionamiento PKM. Esto se logra calculando la distancia acumulada entre cada fotografía (distancia entre 2 puntos), es indispensable que las imágenes sean tomadas con coordenadas con el menor espaciamiento posible.
-
-Los resultados son responsabilidad del usuario.
+"Frame marker" es una herramienta en python que permite automatizar el etiquetado de fecha, hora, coordenadas geográficas y el estacionamiento PKM. Esto se logra calculando la distancia acumulada entre cada fotografía (distancia entre 2 puntos), es indispensable que las imágenes sean tomadas con coordenadas con el menor espaciamiento posible. Los resultados son responsabilidad del usuario.
 
 Este proyecto de Python se enfoca en el manejo y procesamiento de imágenes, especialmente aquellas capturadas con información de telemetría incrustada, como coordenadas GPS, fecha y hora. La aplicación ofrece varias funcionalidades útiles para organizar, manipular y visualizar este tipo de imágenes. A continuación, se presenta un resumen de las principales características y funcionalidades de la aplicación:
 
