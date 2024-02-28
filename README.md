@@ -30,3 +30,7 @@ Se crea un mapa interactivo con marcadores para visualizar las imágenes en func
 **VIII. Creación de KMZ con Imágenes Incrustadas:**
 Se genera un archivo KMZ que contiene las imágenes junto con su información geográfica incrustada, permitiendo su visualización en programas como Google Earth.
 
+El uso de la información asi como los resultados de la herramienta, son responsabilidad del usuario. 
+
+La comunidad de Python se rige por el principio "open source". En este sentido, el uso de "Frame-Maker" no debe ser destinado con fines comerciales.
+
