@@ -1,6 +1,6 @@
 "Frame marker" es una herramienta en python que permite automatizar el etiquetado de fecha, hora, coordenadas geográficas y el estacionamiento PKM. Esto se logra calculando la distancia acumulada entre cada fotografía (distancia entre 2 puntos), es indispensable que las imágenes sean secuenciadas (preferible a cada segundo) y contengan coordenadas geográficas. Los resultados son responsabilidad del usuario.
 
-La herramienat se enfoca en el manejo y procesamiento de imágenes, especialmente aquellas capturadas con información de telemetría incrustada. "Frame maker", ofrece varias funcionalidades útiles para organizar, manipular y visualizar las imágenes. Para crear esta herramienta fue valioso contar con el apoyo del modelo IA de código abierto conocido como "LLAMA" desarrollada por META (facebook), lanzado a mediados del año 2023 con más de 13 billones de parámetros.
+La herramienta se enfoca en el manejo y procesamiento de imágenes, especialmente aquellas capturadas con información de telemetría incrustada. "Frame maker", ofrece varias funcionalidades útiles para organizar, manipular y visualizar las imágenes. Para crear esta herramienta fue valioso contar con el apoyo del modelo IA de código abierto conocido como "LLAMA" desarrollada por META (facebook), lanzado a mediados del año 2023 con más de 13 billones de parámetros.
 
 A continuación, se presenta un resumen de las principales características y funcionalidades:
 
